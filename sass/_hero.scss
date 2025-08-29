@@ -1,0 +1,26 @@
+.hero__text {
+    text-align: center;
+
+    span {
+        color: $white-color;
+        text-transform: uppercase;
+        letter-spacing: 6px;
+    }
+    
+    h1 {
+        font-size: 110px;
+        font-family: 'Rockville Solid Regular';
+        color: $white-color;
+        margin-bottom: 20px;
+        margin-top: 22px;
+    }
+
+    h6 {
+        font-size: 26px;
+        color: #a7dd13;
+        font-weight: 700;
+        margin-bottom: 20px;
+        text-transform: uppercase;
+      }
+    }
+}
